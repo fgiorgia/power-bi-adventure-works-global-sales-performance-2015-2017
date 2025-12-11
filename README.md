@@ -109,7 +109,6 @@ This Power BI report provides executive-level insights into a fictional retail c
     - Apply changes and refresh
 4. Explore the dashboard
     - Navigate through report pages using tabs
-    - Try Q&A feature with natural language queries
     - Use slicers and filters for interactive analysis
 
 ## Key Insights & Findings
